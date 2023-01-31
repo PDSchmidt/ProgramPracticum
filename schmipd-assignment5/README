@@ -1,0 +1,13 @@
+Assignment 5 was an assignment built across multiple stages implementing the cumulative knowledge from the course.
+
+The project outcome was to make a pseudo "Paint-like" graphics program in Java.
+
+Features include:
+-Four drawing implements: Rectangle, Ellipse, Line, and Pencil
+-Tool Thickness Option
+-Color Chooser
+-Fill/No Fill Option
+
+Extra Features I'd like to implement:
+-Saving/Loading an image
+-Draw Layer Option (toggle)
